@@ -1,68 +1,42 @@
 # 👋 Hi, I’m Noobestcodero7
 
-Welcome to my GitHub profile! I'm a Python developer with a passion for building data-driven applications and real-world projects. Here you'll find a collection of my personal and academic work, mostly focused on machine learning, data science, and automation.
+I’m a Python developer passionate about machine learning, automation, and real-world problem solving. My GitHub showcases personal projects in data science, ML, and more.
 
 ---
 
-## 🚀 About Me
+## ⚒️ Projects
 
-- Self-driven developer enthusiastic about Python, ML, and building intelligent systems.
-- Hands-on experience with data analytics, visualization, and predictive modeling.
-- Always curious and eager to explore new technologies and build impactful tools.
+- **🎯 Titanic Survival Predictor**  
+  ML model to predict survival based on passenger data.  
+  _Logistic Regression, Random Forest_
 
----
+- **🎬 Movie Recommendation System**  
+  Built using SVD and content-based filtering.  
+  _Collaborative + content filtering_
 
-## 🛠️ Featured Projects
-
-### 🎯 Titanic Survival Predictor  
-A machine learning project that predicts the survival of Titanic passengers using models like Logistic Regression and Random Forest.  
-> Technologies: `Python`, `scikit-learn`, `pandas`, `matplotlib`, `seaborn`  
-> Skills: Data cleaning, EDA, model training, evaluation.
+- **🌸 Iris Flower Classifier**  
+  Identifies flower species using SVM, KNN, and Decision Trees.
 
 ---
 
-### 🎬 Movie Rating Prediction System  
-Built a movie recommendation system using collaborative and content-based filtering. Implemented models using SVD and cosine similarity.  
-> Technologies: `Python`, `pandas`, `NumPy`, `scikit-learn`  
-> Skills: Recommender systems, matrix factorization, similarity metrics.
+## 🧠 Skills
+
+- **Languages:** Python, SQL  
+- **Libraries:** scikit-learn, pandas, NumPy, matplotlib  
+- **Tools:** Git, Jupyter, GitHub
 
 ---
 
-### 🌸 Iris Flower Classifier  
-A classification project using algorithms like KNN, SVM, and Decision Trees to identify iris flower species.  
-> Technologies: `Python`, `scikit-learn`, `matplotlib`  
-> Skills: Supervised learning, model evaluation, visualization.
+## 📈 Currently Exploring
 
----
-
-## 💼 Technical Skills
-
-| Area                  | Technologies & Tools                              |
-|-----------------------|----------------------------------------------------|
-| **Languages**         | Python, SQL                                        |
-| **Machine Learning**  | scikit-learn, pandas, NumPy                        |
-| **Algorithms**        | Regression, Classification, Recommender Systems    |
-| **Tools & Platforms** | Git, GitHub, Jupyter Notebook                      |
-
----
-
-## 🔭 What I'm Working On
-
-- Developing more advanced ML and deep learning projects.
-- Expanding skills in NLP, computer vision, and AI tools.
-- Building interactive dashboards and web apps with Python.
+- Deep learning frameworks (TensorFlow, PyTorch)  
+- Real-time apps with Python backend
 
 ---
 
 ## 📫 Let’s Connect
 
-- 💻 Explore my repositories on GitHub  
-- 📬 Open to collaboration, learning, and sharing knowledge  
-- 💡 Always building, always improving
-
----
-
-*Thanks for visiting! Feel free to explore my work and drop a star ⭐ if something interests you!*
+Feel free to check out my repositories and drop a ⭐ if something interests you!
 
 
 
